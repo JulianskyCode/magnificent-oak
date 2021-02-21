@@ -152,7 +152,7 @@ Involved in the recruitment process, and the management of existing employees.
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
             <div className="resume-content">
               <h3 className="mb-0">Account Manager</h3>
-              <div className="subheading mb-3">Shout! Media Productions</div>
+              <div className="subheading mb-3">E-Securities Romania, Bucharest</div>
               <p>
                 Collaboratively administrate empowered markets via plug-and-play
                 networks. Dynamically procrastinate B2C users after installed
