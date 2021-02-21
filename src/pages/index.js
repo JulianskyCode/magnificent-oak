@@ -119,6 +119,10 @@ Involved in the recruitment process, and the management of existing employees.
                 Troubleshoot reported issues or queries in detail to diagnose and differentiate between product and
 non-product issues in order to provide accurate, valid, and complete information to customers;
               </p>
+              <p>
+                Troubleshoot reported issues or queries in detail to diagnose and differentiate between product and
+non-product issues in order to provide accurate, valid, and complete information to customers;
+              </p>
             </div>
             <div className="resume-date text-md-right">
               <span className="text-primary">December 2011 - March 2013</span>
