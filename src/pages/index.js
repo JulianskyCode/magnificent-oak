@@ -233,11 +233,11 @@ Involved in the recruitment process, and the management of existing employees.
             </li>
             <li>
               <i className="fa-li fa fa-check"></i>
-              Cross Browser Testing &amp; Debugging
+              Leadership
             </li>
             <li>
               <i className="fa-li fa fa-check"></i>
-              Cross Functional Teams
+              Ability to Multitask
             </li>
             <li>
               <i className="fa-li fa fa-check"></i>
