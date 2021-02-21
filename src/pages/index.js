@@ -65,7 +65,7 @@ Involved in the recruitment process, and the management of existing employees.
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">March 2019 - Present</span>
+              <span className="text-primary">June 2019 - Present</span>
             </div>
           </div>
 
