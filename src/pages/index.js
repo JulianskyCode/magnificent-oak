@@ -107,7 +107,7 @@ Involved in the recruitment process, and the management of existing employees.
                 Worked productively to determine the needs of customers and fast-track solutions to those needs;
               </p>
                <p>
-                Line;
+                Worked well with upper management to ensure ultimate customer satisfaction.;
               </p>
                <p>
                 Line;
