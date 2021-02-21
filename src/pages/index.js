@@ -58,7 +58,7 @@ Involved in the recruitment process, and the management of existing employees.
               <p>
                 Monitored the performance of the customer support team members and worked to increase team morale and motivation.
 
-"&lt;br /&gt;"
+&lt;br&gt;
 
 dadas
               </p>
