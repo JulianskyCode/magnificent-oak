@@ -234,25 +234,6 @@ Involved in the recruitment process, and the management of existing employees.
             </li>
             <li className="list-inline-item">
               <i className="fab fa-macos"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-js-square"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-angular"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-react"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-node-js"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-sass"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-less"></i>
-            </li>
             <li className="list-inline-item">
               <i className="fab fa-wordpress"></i>
             </li>
