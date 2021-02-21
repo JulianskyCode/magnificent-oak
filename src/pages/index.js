@@ -101,7 +101,7 @@ Involved in the recruitment process, and the management of existing employees.
                 Answered all customer queries to the best of my ability;
               </p>
                <p>
-                Line;
+                Answered inquiries by effectively researching, locating, and relaying information to customers;
               </p>
                <p>
                 Line;
