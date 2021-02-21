@@ -233,7 +233,7 @@ Involved in the recruitment process, and the management of existing employees.
               <i className="fab fa-jira"></i>
             </li>
             <li className="list-inline-item">
-              <i className="fab fa-css3-alt"></i>
+              <i className="fab fa-zendesk"></i>
             </li>
             <li className="list-inline-item">
               <i className="fab fa-js-square"></i>
