@@ -240,7 +240,7 @@ Involved in the recruitment process, and the management of existing employees.
             </li>
             <li className="list-inline-item">
               <i className="fab fa-excel"></i>
-              </li>
+            </li>
           </ul>
 
           <div className="subheading mb-3">Workflow</div>
