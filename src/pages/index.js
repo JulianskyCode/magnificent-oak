@@ -245,7 +245,7 @@ Involved in the recruitment process, and the management of existing employees.
             </li>
             <li>
               <i className="fa-li fa fa-check"></i>
-              Good communicator
+              Ability to Work in a Team
             </li>
           </ul>
         </div>
