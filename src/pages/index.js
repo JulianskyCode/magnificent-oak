@@ -27,7 +27,8 @@ const IndexPage = () => (
             </p>
             <p className="lead mb-5">
 I have gained excellent time management skills combined with superior knowledge of the customer service industry. I am always committed to utilizing my skills to further the mission of a company and dedicated to identifying customer needs and delivering effective solutions to all problems. 
-
+            </p>
+            
 Involved in the recruitment process, and the management of existing employees.
           </p>
           <div className="social-icons">
