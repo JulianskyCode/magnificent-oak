@@ -286,9 +286,7 @@ Involved in the recruitment process, and the management of existing employees.
           <h2 className="mb-5">Interests</h2>
           <p>
             Apart from work, I enjoy most of my time being
-            outdoors. In the winter, I am an avid skier and novice ice climber.
-            During the warmer months here in Colorado, I enjoy mountain biking,
-            free climbing, and kayaking.
+            outdoors. Love to travel, 
           </p>
           <p className="mb-0">
             When forced indoors, I follow a number of fantasy genre
