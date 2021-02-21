@@ -82,7 +82,7 @@ Involved in the recruitment process, and the management of existing employees.
                 Involved in the recruitment process: interviews, and hiring;
               </p>
               <p>
-                Worked to motivate and support all team members, resulting in excellent workflow and productivity;
+                Worked to motivate and support all team members, resulting in excellent workflow and productivity.
               </p>
             </div>
             <div className="resume-date text-md-right">
