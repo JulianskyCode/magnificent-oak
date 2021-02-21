@@ -210,7 +210,7 @@ Involved in the recruitment process, and the management of existing employees.
               <div className="subheading mb-3">Highschool</div>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">Sept 2008 - June 2015</span>
+              <span className="text-primary">Sept 2008 - June 2012</span>
             </div>
           </div>
         </div>
