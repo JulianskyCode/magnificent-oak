@@ -25,6 +25,7 @@ const IndexPage = () => (
           <p className="lead mb-5">
             Proven ability to establish and maintain excellent communication and relationships with clients. 
             </p>
+            
 I have gained excellent time management skills combined with superior knowledge of the customer service industry. I am always committed to utilizing my skills to further the mission of a company and dedicated to identifying customer needs and delivering effective solutions to all problems. 
 
 Involved in the recruitment process, and the management of existing employees.
