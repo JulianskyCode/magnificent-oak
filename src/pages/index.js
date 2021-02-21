@@ -200,7 +200,7 @@ Involved in the recruitment process, and the management of existing employees.
               <p>Attended an Erasmus Program in Portugal at Instituto Politécnico de Bragança during the second semester in my second year of college.</p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">August 2002 - May 2006</span>
+              <span className="text-primary">Sept 2012 - June 2015</span>
             </div>
           </div>
         </div>
