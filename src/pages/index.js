@@ -230,7 +230,7 @@ Involved in the recruitment process, and the management of existing employees.
           </div>
           <ul className="list-inline dev-icons">
             <li className="list-inline-item">
-              <i className="fab fa-html5"></i>
+              <i className="fab fa-zendesk"></i>
             </li>
             <li className="list-inline-item">
               <i className="fab fa-css3-alt"></i>
