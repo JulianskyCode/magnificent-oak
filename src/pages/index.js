@@ -269,7 +269,7 @@ Involved in the recruitment process, and the management of existing employees.
             </li>
             <li>
               <i className="fa-li fa fa-check"></i>
-              Ability to Work in a Team
+              Tech Savy on both MacOS and Windows Computers
             </li>
             <li>
               <i className="fa-li fa fa-check"></i>
