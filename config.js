@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Resume, // <title>
+  siteTitle: 'Gatsby Starter Resume', // <title>
   manifestName: 'Resume',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
