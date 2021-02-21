@@ -132,7 +132,7 @@ Involved in the recruitment process, and the management of existing employees.
               <h3 className="mb-0">Customer Sales Support Manager</h3>
               <div className="subheading mb-3">HP Romania, Bucharest</div>
               <p>
-                Line;
+                Guide Sales and implement optimal catalog structure;
               </p>
               <p>
                 Line;
