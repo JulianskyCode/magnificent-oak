@@ -187,7 +187,6 @@ Involved in the recruitment process, and the management of existing employees.
               <h3 className="mb-0">A.S.E, Bucharest</h3>
               <div className="subheading mb-3">Master's Degree</div>
               <div>Human Resource Management</div>
-              <p>GPA: 3.23</p>
             </div>
             <div className="resume-date text-md-right">
               <span className="text-primary">August 2006 - May 2010</span>
