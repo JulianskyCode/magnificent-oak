@@ -135,7 +135,7 @@ Involved in the recruitment process, and the management of existing employees.
                 Guide Sales and implement optimal catalog structure;
               </p>
               <p>
-                Line;
+                Provide consultancy on product offering and pricing;
               </p>
               <p>
                 Line;
