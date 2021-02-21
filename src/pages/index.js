@@ -141,7 +141,7 @@ Involved in the recruitment process, and the management of existing employees.
                 Performs triage on issues and redirects to appropriate teams;
               </p>
               <p>
-                Single point of contact on issues regarding offer,catalog, B2B portal access, and capabilities;
+                Single point of contact on issues regarding offer,catalog, B2B portal access, and capabilities.
               </p>
             </div>
             <div className="resume-date text-md-right">
