@@ -98,7 +98,7 @@ Involved in the recruitment process, and the management of existing employees.
                 Worked to achieve high customer satisfaction rates by providing optimal customer service in a fast paced enviroment;
               </p>
                <p>
-                Line;
+                Answered all customer queries to the best of my ability;
               </p>
                <p>
                 Line;
