@@ -283,14 +283,18 @@ Involved in the recruitment process, and the management of existing employees.
         id="interests"
       >
         <div className="w-100">
-          <h2 className="mb-5">Interests</h2>
+          <h2 className="mb-5">Internsgips</h2>
           <p>
-            Apart from work, I enjoy most of my time being
-            outdoors. Love to travel %amp'
+            Apart from being a web developer, I enjoy most of my time being
+            outdoors. In the winter, I am an avid skier and novice ice climber.
+            During the warmer months here in Colorado, I enjoy mountain biking,
+            free climbing, and kayaking.
           </p>
           <p className="mb-0">
-            When forced indoors, I follow a number of fantasy genre
-            movies and television shows, I am an aspiring pasta chef.
+            When forced indoors, I follow a number of sci-fi and fantasy genre
+            movies and television shows, I am an aspiring chef, and I spend a
+            large amount of my free time exploring the latest technology
+            advancements in the front-end web development world.
           </p>
         </div>
       </section>
@@ -313,7 +317,7 @@ Involved in the recruitment process, and the management of existing employees.
               Cambridge
             </li>
             <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>
+              <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
               Hootsuite Platform Certification, Hootsuite Academy
             </li>
           </ul>
