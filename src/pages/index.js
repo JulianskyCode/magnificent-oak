@@ -116,7 +116,8 @@ Involved in the recruitment process, and the management of existing employees.
                 Remained flexible, adaptable, and committed to success;
               </p>
                <p>
-                Line;
+                Troubleshoot reported issues or queries in detail to diagnose and differentiate between product and
+non-product issues in order to provide accurate, valid, and complete information to customers;
               </p>
             </div>
             <div className="resume-date text-md-right">
