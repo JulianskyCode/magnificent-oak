@@ -34,6 +34,6 @@ module.exports = {
     },
   ],
   email: 'elen.zaharia@gmail.com',
-  phone: '000-00000',
+  phone: '0722709221',
   address: '305 Del Sol, Sunnyvale, CA',
 };
