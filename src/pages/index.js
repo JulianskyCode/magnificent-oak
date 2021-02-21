@@ -163,7 +163,7 @@ Involved in the recruitment process, and the management of existing employees.
                 Combining informative notes on the events of a political or economic nature;
               </p>
               <p>
-                Line.
+                Analyzing surveys, market studies participation under the coordination of the Director of the Department.
               </p>
             </div>
             <div className="resume-date text-md-right">
