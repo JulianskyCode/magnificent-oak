@@ -23,10 +23,7 @@ const IndexPage = () => (
             <a href={`mailto:${config.email}`}>{config.email}</a>
           </div>
           <p className="lead mb-5">
-            I am experienced in leveraging agile frameworks to provide a robust
-            synopsis for high level overviews. Iterative approaches to corporate
-            strategy foster collaborative thinking to further the overall value
-            proposition.
+            Proven ability to establish and maintain excellent communication and relationships with clients. I have gained excellent time management skills combined with superior knowledge of the customer service industry. I am always committed to utilizing my skills to further the mission of a company and dedicated to identifying customer needs and delivering effective solutions to all problems. I have been assisting with the recruitment of employees, as well as the management of existing employees.
           </p>
           <div className="social-icons">
             {config.socialLinks.map(social => {
