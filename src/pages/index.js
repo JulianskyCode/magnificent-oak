@@ -291,7 +291,7 @@ Involved in the recruitment process, and the management of existing employees.
             free climbing, and kayaking.
           </p>
           <p className="mb-0">
-            When forced indoors, I follow a number of sci-fi and fantasy genre
+            When forced indoors, I follow a number of fantasy genre
             movies and television shows, I am an aspiring pasta chef.
           </p>
         </div>
