@@ -317,7 +317,7 @@ Involved in the recruitment process, and the management of existing employees.
               Cambridge
             </li>
             <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
+              <i className="fa-li fa fa-trophy text-warning"></i>
               Hootsuite Platform Certification, Hootsuite Academy
             </li>
           </ul>
