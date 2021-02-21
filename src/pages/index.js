@@ -154,10 +154,7 @@ Involved in the recruitment process, and the management of existing employees.
               <h3 className="mb-0">Account Manager</h3>
               <div className="subheading mb-3">E-Securities Romania, Bucharest</div>
               <p>
-                Collaboratively administrate empowered markets via plug-and-play
-                networks. Dynamically procrastinate B2C users after installed
-                base benefits. Dramatically visualize customer directed
-                convergence without revolutionary ROI.
+                Line.
               </p>
             </div>
             <div className="resume-date text-md-right">
