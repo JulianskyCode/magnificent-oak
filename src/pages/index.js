@@ -185,7 +185,7 @@ Involved in the recruitment process, and the management of existing employees.
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
               <h3 className="mb-0">A.S.E, Bucharest</h3>
-              <div className="subheading mb-3">Masters in Human REsou</div>
+              <div className="subheading mb-3">Master degree in Human Resource Management</div>
               <div>Computer Science - Web Development Track</div>
               <p>GPA: 3.23</p>
             </div>
