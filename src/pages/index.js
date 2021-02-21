@@ -56,7 +56,7 @@ Involved in the recruitment process, and the management of existing employees.
               <h3 className="mb-0">Team Leader Customer Support</h3>
               <div className="subheading mb-3">Hootsuite, Bucharest</div>
               <p>
-                Monitored the performance of the customer support team members and worked to increase team morale and motivation.&lt;br&gt;
+                Monitored the performance of the customer support team members and worked to increase team morale and motivation. &lt;br&gt;
 
 dadas
               </p>
