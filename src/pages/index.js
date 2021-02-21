@@ -160,7 +160,7 @@ Involved in the recruitment process, and the management of existing employees.
                 Collecting and archiving information related to political-economic events;
               </p>
               <p>
-                Line;
+                Combining informative notes on the events of a political or economic nature;
               </p>
               <p>
                 Line.
