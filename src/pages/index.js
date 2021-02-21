@@ -123,7 +123,7 @@ Involved in the recruitment process, and the management of existing employees.
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">Nov 2017 - June 2013</span>
+              <span className="text-primary">Nov 2017 - June 2019</span>
             </div>
           </div>
 
