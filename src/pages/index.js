@@ -253,7 +253,7 @@ Involved in the recruitment process, and the management of existing employees.
             </li>
             <li>
               <i className="fa-li fa fa-check"></i>
-              Trouble solver
+              Problem solver
             </li>
             <li>
               <i className="fa-li fa fa-check"></i>
