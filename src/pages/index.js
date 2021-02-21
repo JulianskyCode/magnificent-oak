@@ -154,7 +154,7 @@ Involved in the recruitment process, and the management of existing employees.
               <h3 className="mb-0">Account Manager</h3>
               <div className="subheading mb-3">E-Securities Romania, Bucharest</div>
               <p>
-                Line;
+                Collecting and archiving information related to the sector's companies of interest;
               </p>
               <p>
                 Line;
