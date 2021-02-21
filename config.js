@@ -18,11 +18,6 @@ module.exports = {
       url: 'https://linkedin.com/in/theanubhav/',
     },
     {
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
-    },
-    {
       icon: 'fa-facebook-f',
       name: 'Facebook',
       url: 'https://facebook.com/theanubhav',
