@@ -79,7 +79,7 @@ Involved in the recruitment process, and the management of existing employees.
                 Aimed to support a positive and productive work culture;
               </p>
               <p>
-                Involved in the recruitment, interviews, and hiring;
+                Involved in the recruitment process: interviews, and hiring;
               </p>
               <p>
                 Worked to motivate and support all team members, resulting in excellent workflow and productivity;
