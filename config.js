@@ -17,11 +17,6 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/elenazaharia2021/',
     },
-    {
-      icon: 'fa-facebook-f',
-      name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
-    },
   ],
   email: 'elen.zaharia@gmail.com',
   phone: '+40722709221',
