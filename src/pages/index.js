@@ -225,9 +225,7 @@ Involved in the recruitment process, and the management of existing employees.
         <div className="w-100">
           <h2 className="mb-5">Skills</h2>
 
-          <div className="subheading mb-3">
-            Familiar with &amp; tools
-          </div>
+          
           <ul className="list-inline dev-icons">
             <li className="list-inline-item">
               <i className="fab fa-jira"></i>
