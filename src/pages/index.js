@@ -104,7 +104,7 @@ Involved in the recruitment process, and the management of existing employees.
                 Answered inquiries by effectively researching, locating, and relaying information to customers;
               </p>
                <p>
-                Line;
+                Worked productively to determine the needs of customers and fast-track solutions to those needs;
               </p>
                <p>
                 Line;
