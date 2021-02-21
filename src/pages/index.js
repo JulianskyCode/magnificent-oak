@@ -184,7 +184,7 @@ Involved in the recruitment process, and the management of existing employees.
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">University of Colorado Boulder</h3>
+              <h3 className="mb-0">A.S.E, Bucharest</h3>
               <div className="subheading mb-3">Bachelor of Science</div>
               <div>Computer Science - Web Development Track</div>
               <p>GPA: 3.23</p>
