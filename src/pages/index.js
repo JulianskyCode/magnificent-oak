@@ -306,7 +306,7 @@ Involved in the recruitment process, and the management of existing employees.
         id="awards"
       >
         <div className="w-100">
-          <h2 className="mb-5"> &amp; Certifications</h2>
+          <h2 className="mb-5"> Courses &amp; Certifications</h2>
           <ul className="fa-ul mb-0">
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
