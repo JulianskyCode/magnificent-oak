@@ -76,7 +76,7 @@ Involved in the recruitment process, and the management of existing employees.
                 Remained open-minded and humble, leading to great collaborations;
               </p>
               <p>
-                Organized and prioritized work to complete assignments in a timely, efficient manner;
+                Aimed to support a positive and productive work culture;
               </p>
               <p>
                 Organized and prioritized work to complete assignments in a timely, efficient manner;
