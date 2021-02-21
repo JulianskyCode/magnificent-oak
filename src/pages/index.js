@@ -82,7 +82,7 @@ Involved in the recruitment process, and the management of existing employees.
                 Assisted with recruitment, interviews, and hiring;
               </p>
               <p>
-                Organized and prioritized work to complete assignments in a timely, efficient manner;
+                Worked to motivate and support all team members, resulting in excellent workflow and productivity;
               </p>
             </div>
             <div className="resume-date text-md-right">
