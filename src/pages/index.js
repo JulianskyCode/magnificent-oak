@@ -257,7 +257,7 @@ Involved in the recruitment process, and the management of existing employees.
             </li>
             <li>
               <i className="fa-li fa fa-check"></i>
-              Good with task '&amp' time management
+              Good with task & time management
             </li>
             <li>
               <i className="fa-li fa fa-check"></i>
