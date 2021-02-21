@@ -70,7 +70,7 @@ Involved in the recruitment process, and the management of existing employees.
                 Organized and prioritized work to complete assignments in a timely, efficient manner;
               </p>
               <p>
-                Organized and prioritized work to complete assignments in a timely, efficient manner;
+                Worked to remain technologically savvy and current with field advancements;
               </p>
               <p>
                 Organized and prioritized work to complete assignments in a timely, efficient manner;
