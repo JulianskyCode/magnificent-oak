@@ -92,7 +92,7 @@ Involved in the recruitment process, and the management of existing employees.
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">Web Developer</h3>
+              <h3 className="mb-0">Customer Support Advocate</h3>
               <div className="subheading mb-3">Intelitec Solutions</div>
               <p>
                 Capitalize on low hanging fruit to identify a ballpark value
