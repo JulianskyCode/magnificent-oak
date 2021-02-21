@@ -93,7 +93,7 @@ Involved in the recruitment process, and the management of existing employees.
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
               <h3 className="mb-0">Customer Support Advocate</h3>
-              <div className="subheading mb-3">Intelitec Solutions</div>
+              <div className="subheading mb-3">Hootsuite, Bucharest</div>
               <p>
                 Capitalize on low hanging fruit to identify a ballpark value
                 added activity to beta test. Override the digital divide with
