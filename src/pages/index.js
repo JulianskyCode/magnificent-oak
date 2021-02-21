@@ -56,14 +56,7 @@ Involved in the recruitment process, and the management of existing employees.
               <h3 className="mb-0">Team Leader Customer Support</h3>
               <div className="subheading mb-3">Hootsuite, Bucharest</div>
               <p>
-                • Monitoredtheperformanceofthecustomersupportteammembersandworkedtoincreaseteammorale and motivation.
-• Built an effective team of workers that increased customer satisfaction rates.
-• Organized and prioritized work to complete assignments in a timely, efficient manner.
-• Worked to remain technologically savvy and current with field advancements.
-• Remained open-minded and humble, leading to great collaborations.
-• Aimed to support a positive and productive work culture.
-• Assisted with recruitment, interviews, and hiring.
-• Worked to motivate and support all team members, resulting in excellent workflow and productivity.
+                Monitoredtheperformanceofthecustomersupportteammembersandworkedtoincreaseteammorale and motivation.
               </p>
             </div>
             <div className="resume-date text-md-right">
