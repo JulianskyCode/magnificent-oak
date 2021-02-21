@@ -110,7 +110,7 @@ Involved in the recruitment process, and the management of existing employees.
                 Worked well with upper management to ensure ultimate customer satisfaction.;
               </p>
                <p>
-                Line;
+                Brought forth advanced organizational and multitasking skills;
               </p>
                <p>
                 Line;
