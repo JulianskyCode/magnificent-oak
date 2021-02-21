@@ -130,7 +130,7 @@ Involved in the recruitment process, and the management of existing employees.
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
               <h3 className="mb-0">Customer Sales Support Manager</h3>
-              <div className="subheading mb-3">Shout! Media Productions</div>
+              <div className="subheading mb-3">HP Romania, Bucharest</div>
               <p>
                 Line;
               </p>
