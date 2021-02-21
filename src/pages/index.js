@@ -57,8 +57,6 @@ Involved in the recruitment process, and the management of existing employees.
               <div className="subheading mb-3">Hootsuite, Bucharest</div>
               <p>
                 Monitored the performance of the customer support team members and worked to increase team morale and motivation.
-
-dadas
               </p>
             </div>
             <div className="resume-date text-md-right">
