@@ -35,5 +35,5 @@ module.exports = {
   ],
   email: 'elen.zaharia@gmail.com',
   phone: '+40722709221',
-  address: '305 Del Sol, Sunnyvale, CA',
+  address: 'Bucharest, Romania',
 };
