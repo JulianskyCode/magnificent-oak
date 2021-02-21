@@ -189,7 +189,7 @@ Involved in the recruitment process, and the management of existing employees.
               <div>Human Resource Management</div>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">Sept 2016 - May 2010</span>
+              <span className="text-primary">Sept 2016 - June 2018</span>
             </div>
           </div>
 
