@@ -138,7 +138,7 @@ Involved in the recruitment process, and the management of existing employees.
                 Provide consultancy on product offering and pricing;
               </p>
               <p>
-                Line;
+                Performs triage on issues and redirects to appropriate teams;
               </p>
               <p>
                 Line;
