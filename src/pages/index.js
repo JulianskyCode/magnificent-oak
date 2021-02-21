@@ -240,13 +240,6 @@ Involved in the recruitment process, and the management of existing employees.
             </li>
             <li className="list-inline-item">
               <i className="fab fa-word"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-grunt"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-npm"></i>
-            </li>
           </ul>
 
           <div className="subheading mb-3">Workflow</div>
