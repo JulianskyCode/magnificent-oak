@@ -243,6 +243,10 @@ Involved in the recruitment process, and the management of existing employees.
               <i className="fa-li fa fa-check"></i>
               Good communicator
             </li>
+            <li>
+              <i className="fa-li fa fa-check"></i>
+              Good communicator
+            </li>
           </ul>
         </div>
       </section>
