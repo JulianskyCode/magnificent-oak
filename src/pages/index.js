@@ -79,7 +79,7 @@ Involved in the recruitment process, and the management of existing employees.
                 Aimed to support a positive and productive work culture;
               </p>
               <p>
-                Organized and prioritized work to complete assignments in a timely, efficient manner;
+                Assisted with recruitment, interviews, and hiring;
               </p>
               <p>
                 Organized and prioritized work to complete assignments in a timely, efficient manner;
