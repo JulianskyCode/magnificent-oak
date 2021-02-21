@@ -225,22 +225,6 @@ Involved in the recruitment process, and the management of existing employees.
         <div className="w-100">
           <h2 className="mb-5">Skills</h2>
 
-          
-          <ul className="list-inline dev-icons">
-            <li className="list-inline-item">
-              <i className="fab fa-jira"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-macos"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-wordpress"></i>
-            </li>
-            <li className="list-inline-item">
-              <i className="fab fa-excel"></i>
-            </li>
-          </ul>
-
           <div className="subheading mb-3">Workflow</div>
           <ul className="fa-ul mb-0">
             <li>
