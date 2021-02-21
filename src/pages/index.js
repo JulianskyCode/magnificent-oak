@@ -120,8 +120,7 @@ Involved in the recruitment process, and the management of existing employees.
 non-product issues in order to provide accurate, valid, and complete information to customers;
               </p>
               <p>
-                Troubleshoot reported issues or queries in detail to diagnose and differentiate between product and
-non-product issues in order to provide accurate, valid, and complete information to customers;
+                Maintain a focus on excellence by meeting or exceeding quarterly targets including Quality Assurance (QA), Customer Satisfaction (CSAT), productivity (solves/AHT)s.
               </p>
             </div>
             <div className="resume-date text-md-right">
