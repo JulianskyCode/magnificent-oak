@@ -116,8 +116,7 @@ Involved in the recruitment process, and the management of existing employees.
                 Remained flexible, adaptable, and committed to success;
               </p>
                <p>
-                Troubleshoot reported issues or queries in detail to diagnose and differentiate between product and
-non-product issues in order to provide accurate, valid, and complete information to customers;
+                Troubleshoot reported issues or queries in detail to diagnose and differentiate between product and non-product issues in order to provide accurate, valid, and complete information to customers;
               </p>
               <p>
                 Maintain a focus on excellence by meeting or exceeding quarterly targets including Quality Assurance (QA), Customer Satisfaction (CSAT), productivity (solves/AHT)s.
