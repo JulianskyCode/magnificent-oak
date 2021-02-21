@@ -59,7 +59,7 @@ Involved in the recruitment process, and the management of existing employees.
                 Monitored the performance of the customer support team members and worked to increase team morale and motivation;
               </p>
                <p>
-                Monitored the performance of the customer support team members and worked to increase team morale and motivation.
+                Built an effective team of workers that increased customer satisfaction rates;
               </p>
             </div>
             <div className="resume-date text-md-right">
