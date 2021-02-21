@@ -239,7 +239,7 @@ Involved in the recruitment process, and the management of existing employees.
               <i className="fab fa-wordpress"></i>
             </li>
             <li className="list-inline-item">
-              <i className="fab fa-gulp"></i>
+              <i className="fab fa-word"></i>
             </li>
             <li className="list-inline-item">
               <i className="fab fa-grunt"></i>
