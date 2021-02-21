@@ -157,7 +157,7 @@ Involved in the recruitment process, and the management of existing employees.
                 Collecting and archiving information related to the sector's companies of interest;
               </p>
               <p>
-                Line;
+                Collecting and archiving information related to political-economic events;
               </p>
               <p>
                 Line;
