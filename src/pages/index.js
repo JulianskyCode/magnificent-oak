@@ -290,7 +290,7 @@ Involved in the recruitment process, and the management of existing employees.
           </p>
           <p className="mb-0">
             When forced indoors, I follow a number of fantasy genre
-            movies and television shows, I am an aspiring pasta chef.
+            movies and television shows and I am an aspiring pasta chef.
           </p>
         </div>
       </section>
