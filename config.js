@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-resume/`, // This path is subpath of your hosting https://domain/portfolio
   firstName: 'Elena',
-  lastName: 'Srivastava',
+  lastName: 'SrivasZahatava',
   // social
   socialLinks: [
     {
