@@ -54,7 +54,7 @@ Involved in the recruitment process, and the management of existing employees.
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
               <h3 className="mb-0">Team Leader Customer Support</h3>
-              <div className="subheading mb-3">Intelitec Solutions</div>
+              <div className="subheading mb-3">Hootsuite, Bucharest</div>
               <p>
                 Bring to the table win-win survival strategies to ensure
                 proactive domination. At the end of the day, going forward, a
