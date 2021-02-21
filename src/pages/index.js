@@ -62,7 +62,7 @@ Involved in the recruitment process, and the management of existing employees.
                 Built an effective team of workers that increased customer satisfaction rates;
               </p>
                <p>
-                Built an effective team of workers that increased customer satisfaction rates;
+                Organized and prioritized work to complete assignments in a timely, efficient manner;
               </p>
             </div>
             <div className="resume-date text-md-right">
