@@ -145,7 +145,7 @@ Involved in the recruitment process, and the management of existing employees.
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">Sept 2015 - December 2015</span>
+              <span className="text-primary">March 2017 - May 2017</spn>
             </div>
           </div>
 
