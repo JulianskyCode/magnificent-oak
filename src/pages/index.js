@@ -197,7 +197,7 @@ Involved in the recruitment process, and the management of existing employees.
             <div className="resume-content">
               <h3 className="mb-0">S.N.S.P.A, Bucharest</h3>
               <div className="subheading mb-3">Bachelor European Administration</div>
-              <p>GPA: 3.56</p>
+              <p>Attended an Erasmus Program in Portugal at Instituto Politécnico de Bragança during the second semester in my second year of college.</p>
             </div>
             <div className="resume-date text-md-right">
               <span className="text-primary">August 2002 - May 2006</span>
