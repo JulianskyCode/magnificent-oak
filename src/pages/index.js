@@ -73,7 +73,7 @@ Involved in the recruitment process, and the management of existing employees.
                 Worked to remain technologically savvy and current with field advancements;
               </p>
               <p>
-                Organized and prioritized work to complete assignments in a timely, efficient manner;
+                Remained open-minded and humble, leading to great collaborations;
               </p>
               <p>
                 Organized and prioritized work to complete assignments in a timely, efficient manner;
