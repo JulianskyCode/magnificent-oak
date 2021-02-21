@@ -249,7 +249,7 @@ Involved in the recruitment process, and the management of existing employees.
             </li>
             <li>
               <i className="fa-li fa fa-check"></i>
-              Ability to Work in a Team
+              Interpersonal Communication Skills
             </li>
             <li>
               <i className="fa-li fa fa-check"></i>
