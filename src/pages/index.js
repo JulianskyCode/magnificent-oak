@@ -69,6 +69,13 @@ Involved in the recruitment process, and the management of existing employees.
                <p>
                 Organized and prioritized work to complete assignments in a timely, efficient manner;
               </p>
+              <p>
+                Organized and prioritized work to complete assignments in a timely, efficient manner;
+              </p>
+              <p>
+                Organized and prioritized work to complete assignments in a timely, efficient manner;
+              </p>
+              
             </div>
             <div className="resume-date text-md-right">
               <span className="text-primary">June 2019 - Present</span>
