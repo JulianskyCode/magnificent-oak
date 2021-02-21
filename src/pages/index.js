@@ -285,7 +285,7 @@ Involved in the recruitment process, and the management of existing employees.
         <div className="w-100">
           <h2 className="mb-5">Internsgips</h2>
           <p>
-            Apart from being a web developer, I enjoy most of my time being
+            Apart from work, I enjoy most of my time being
             outdoors. In the winter, I am an avid skier and novice ice climber.
             During the warmer months here in Colorado, I enjoy mountain biking,
             free climbing, and kayaking.
