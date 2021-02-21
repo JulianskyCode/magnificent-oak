@@ -251,6 +251,34 @@ Involved in the recruitment process, and the management of existing employees.
               <i className="fa-li fa fa-check"></i>
               Ability to Work in a Team
             </li>
+            <li>
+              <i className="fa-li fa fa-check"></i>
+              Ability to Work in a Team
+            </li>
+            <li>
+              <i className="fa-li fa fa-check"></i>
+              Ability to Work in a Team
+            </li>
+            <li>
+              <i className="fa-li fa fa-check"></i>
+              Ability to Work in a Team
+            </li>
+            <li>
+              <i className="fa-li fa fa-check"></i>
+              Ability to Work in a Team
+            </li>
+            <li>
+              <i className="fa-li fa fa-check"></i>
+              Ability to Work in a Team
+            </li>
+            <li>
+              <i className="fa-li fa fa-check"></i>
+              Ability to Work in a Team
+            </li>
+            <li>
+              <i className="fa-li fa fa-check"></i>
+              Ability to Work in a Team
+            </li>
             
           </ul>
         </div>
