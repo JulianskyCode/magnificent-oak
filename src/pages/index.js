@@ -310,7 +310,7 @@ Involved in the recruitment process, and the management of existing employees.
           <ul className="fa-ul mb-0">
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
-              Google Analytics Certified Developer
+              ECDL
             </li>
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
