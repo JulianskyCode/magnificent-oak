@@ -32,7 +32,10 @@ I have gained excellent time management skills combined with superior knowledge 
 I am always committed to utilizing my skills to further the mission of a company and dedicated to identifying customer needs and delivering effective solutions to all problems. 
             </p>
             <p className="lead mb-5">
-Involved in the recruitment process, and the management of existing employees.
+Involved in the management of existing employees, tasks and in the recruitment process.
+          </p>
+          <p className="lead mb-5">
+I am results-oriented, constantly checking in with the goal to determine how close or how far away we are and what it will take to make it happen. I find this pressure inspiring and a great motivator for the rest of the team.
           </p>
           <div className="social-icons">
             {config.socialLinks.map(social => {
@@ -226,47 +229,25 @@ Involved in the recruitment process, and the management of existing employees.
           <ul className="fa-ul mb-0">
             <li>
               <i className="fa-li fa fa-check"></i>
-              Creativity
+              Leadership: It’s more than managing tasks; it’s managing people. As a team lead I was responsible not only for seeing my team being successfull, but also had to ballace it with managing individual team member goals.
             </li>
             <li>
               <i className="fa-li fa fa-check"></i>
-              Leadership
+              Communication is key when managing a team of individuals. Whether is through 1:1s, team meetings or helping out someone I always tried to use a fiendly tone and listen before, express after. 
+            </li>
+            
+            <li>
+              <i className="fa-li fa fa-check"></i>
+              Negotiating: Leading a team means you’re in constant negotiations. For example, there are changes  that can impact individuals in my team. There's some need for diplomacy here as all parties concerned feel they're getting what they want.
             </li>
             <li>
               <i className="fa-li fa fa-check"></i>
-              Ability to Multitask
+              Multitasking and scheduling: The only way to achieve the goals of the project within the timeframe that has been decided on is to break down that 
+goal into tasks on a timeline.
             </li>
             <li>
               <i className="fa-li fa fa-check"></i>
-              Good communicator
-            </li>
-            <li>
-              <i className="fa-li fa fa-check"></i>
-              Ability to Work in a Team
-            </li>
-            <li>
-              <i className="fa-li fa fa-check"></i>
-              Interpersonal Communication Skills
-            </li>
-            <li>
-              <i className="fa-li fa fa-check"></i>
-              Problem solver
-            </li>
-            <li>
-              <i className="fa-li fa fa-check"></i>
-              Good with task & time management
-            </li>
-            <li>
-              <i className="fa-li fa fa-check"></i>
-              Fast Learner
-            </li>
-            <li>
-              <i className="fa-li fa fa-check"></i>
-              Adaptability
-            </li>
-            <li>
-              <i className="fa-li fa fa-check"></i>
-              Tech Savy on both MacOS and Windows Computers
+              Tech Savy on various tech-stack enviroments
             </li>
             
           </ul>
