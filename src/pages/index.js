@@ -37,16 +37,7 @@ I am results-oriented, constantly checking in with the goal to determine how clo
           <p className="lead mb-5">
 Involved in the management of existing employees, tasks and in the recruitment process.
           </p>
-          <div className="social-icons">
-            {config.socialLinks.map(social => {
-              const { icon, url } = social;
-              return (
-                <a key={url} href={url}>
-                  <i className={`fab ${icon}`}></i>
-                </a>
-              );
-            })}
-          </div>
+          
         </div>
       </section>
 
