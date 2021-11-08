@@ -154,16 +154,13 @@ Involved in the recruitment process, and the management of existing employees.
               <h3 className="mb-0">Account Manager</h3>
               <div className="subheading mb-3">E-Securities Romania, Bucharest</div>
               <p>
-                Collecting and archiving information related to the sector's companies of interest;
+                Collecting and archiving information related to the sector's companies of interest. Analyzing surveys, market studies participation;
               </p>
               <p>
                 Collecting and archiving information related to political-economic events;
               </p>
               <p>
                 Combining informative notes on the events of a political or economic nature;
-              </p>
-              <p>
-                Analyzing surveys, market studies participation under the coordination of the Director of the Department.
               </p>
             </div>
             <div className="resume-date text-md-right">
@@ -176,8 +173,8 @@ Involved in the recruitment process, and the management of existing employees.
       <hr className="m-0" />
 
       <section
-        className="resume-section p-3 p-lg-5 d-flex align-items-center"
-        id="education"
+        className="resume-section p-3 p-lg-5 d-flex justify-content-center"
+        id="experience"
       >
         <div className="w-100">
           <h2 className="mb-5">Education</h2>
