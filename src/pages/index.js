@@ -14,10 +14,10 @@ const IndexPage = () => (
         id="about"
       >
         <div className="w-100">
-          <h1 className="mb-0">
+          <h2 className="mb-0">
             {config.firstName}
             <span className="text-primary">{config.lastName}</span>
-          </h1>
+          </h2>
           <div className="subheading mb-5">
             {config.address} · {config.phone} ·
             <a href={`mailto:${config.email}`}>{config.email}</a>
@@ -31,11 +31,11 @@ I have gained excellent time management skills combined with superior knowledge 
             <p className="lead mb-5">
 I am always committed to utilizing my skills to further the mission of a company and dedicated to identifying customer needs and delivering effective solutions to all problems. 
             </p>
-            <p className="lead mb-5">
-Involved in the management of existing employees, tasks and in the recruitment process.
-          </p>
           <p className="lead mb-5">
 I am results-oriented, constantly checking in with the goal to determine how close or how far away we are and what it will take to make it happen. I find this pressure inspiring and a great motivator for the rest of the team.
+          </p>
+          <p className="lead mb-5">
+Involved in the management of existing employees, tasks and in the recruitment process.
           </p>
           <div className="social-icons">
             {config.socialLinks.map(social => {
